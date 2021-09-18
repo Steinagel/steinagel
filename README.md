@@ -3,7 +3,6 @@
 
 <p align="left" style="font-size:15px">
 <a href="https://www.linkedin.com/in/willsteinagel/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://twitter.com/will_steinagel/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=linkedin" alt="Twitter"></a>
 <a href="https://www.instagram.com/willdelorto/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram"></a>
 </p>
 <p>
