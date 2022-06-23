@@ -9,5 +9,5 @@
 ____
 
 <p>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steinagel&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steinagel&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
